@@ -6,7 +6,7 @@ Using features such as age,sex and others to predict if a patient has heart dise
 
 Some context:
 
-Target(this is what we are tryig to predict)
+Target(this is what we are trying to predict)
 
 1- means heart disease 
 
